@@ -1,0 +1,20 @@
+{
+  "env": {
+    "node": true,
+    "es2017": true
+  },
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "extends": [
+    "prettier"
+  ],
+  "plugins": [
+    "prettier"
+  ],
+  "rules": {
+    "prettier/prettier": [
+      "error"
+    ]
+  }
+}
