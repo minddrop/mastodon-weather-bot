@@ -34,7 +34,7 @@
     "webpack-node-externals": "^1.7.2"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "megalodon": "^2.1.1",
     "morgan": "^1.9.1"
   }
